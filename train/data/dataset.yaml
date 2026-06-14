@@ -1,0 +1,7 @@
+names:
+- Without Helmet
+- With Helmet
+nc: 2
+test: C:/Users/82102/Desktop/yolo_test12/dl_workspace/dl_workspace/archive/working/images
+train: C:/Users/82102/Desktop/yolo_test12/dl_workspace/dl_workspace/archive/working/images
+val: C:/Users/82102/Desktop/yolo_test12/dl_workspace/dl_workspace/archive/working/images
